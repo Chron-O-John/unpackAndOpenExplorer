@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "C:\Program Files\autoUnzip.ps1" -zipFilePath "%~1"
